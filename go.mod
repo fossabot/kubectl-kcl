@@ -1,6 +1,6 @@
 module kusionstack.io/kubectl-kcl
 
-go 1.18
+go 1.19
 
 require (
 	github.com/KusionStack/krm-kcl v0.0.0-20230523025005-1e7899fe1c98
