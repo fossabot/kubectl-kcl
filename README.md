@@ -3,6 +3,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/kcl-lang/kubectl-kcl)](https://goreportcard.com/report/github.com/kcl-lang/kubectl-kcl)
 [![GoDoc](https://godoc.org/github.com/kcl-lang/kubectl-kcl?status.svg)](https://godoc.org/github.com/kcl-lang/kubectl-kcl)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/kcl-lang/kubectl-kcl/blob/main/LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcl-lang%2Fkubectl-kcl.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcl-lang%2Fkubectl-kcl?ref=badge_shield)
 
 [KCL](https://github.com/kcl-lang/kcl) is a constraint-based record & functional domain language. Full documents of KCL can be found [here](https://kcl-lang.io/).
 
@@ -68,3 +69,7 @@ Here's what you can do in the KCL script:
 + Read the OpenAPI schema. e.g. `option("open_api")["definitions"]["io.k8s.api.apps.v1.Deployment"]` (Not yet implemented).
 
 Full documents of KCL can be found [here](https://kcl-lang.io/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcl-lang%2Fkubectl-kcl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcl-lang%2Fkubectl-kcl?ref=badge_large)
